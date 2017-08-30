@@ -1,0 +1,17 @@
+{
+	"users":[
+		{	"name":"john1",
+			"email": "john1@email.com",
+			"reference date": "01-01-2017"
+		},
+		{	"name":"john2",
+			"email": "john2@email.com",
+			"reference date": "01-01-2017"},
+		{	"name":"john3",
+			"email": "john3@email.com",
+			"reference date": "01-01-2017"
+			
+		}
+		
+		]
+}
